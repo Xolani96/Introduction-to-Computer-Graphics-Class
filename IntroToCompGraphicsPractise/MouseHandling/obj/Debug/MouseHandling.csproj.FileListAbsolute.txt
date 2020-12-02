@@ -1,0 +1,9 @@
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\MouseHandling\bin\Debug\MouseHandling.exe.config
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\MouseHandling\bin\Debug\MouseHandling.exe
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\MouseHandling\bin\Debug\MouseHandling.pdb
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\MouseHandling\obj\Debug\MouseHandling.Form1.resources
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\MouseHandling\obj\Debug\MouseHandling.Properties.Resources.resources
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\MouseHandling\obj\Debug\MouseHandling.csproj.GenerateResource.cache
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\MouseHandling\obj\Debug\MouseHandling.csproj.CoreCompileInputs.cache
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\MouseHandling\obj\Debug\MouseHandling.exe
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\MouseHandling\obj\Debug\MouseHandling.pdb

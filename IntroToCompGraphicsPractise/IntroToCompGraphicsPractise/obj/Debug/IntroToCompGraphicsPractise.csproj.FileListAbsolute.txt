@@ -1,0 +1,10 @@
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\IntroToCompGraphicsPractise\bin\Debug\IntroToCompGraphicsPractise.exe.config
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\IntroToCompGraphicsPractise\bin\Debug\IntroToCompGraphicsPractise.exe
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\IntroToCompGraphicsPractise\bin\Debug\IntroToCompGraphicsPractise.pdb
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\IntroToCompGraphicsPractise\obj\Debug\IntroToCompGraphicsPractise.csprojAssemblyReference.cache
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\IntroToCompGraphicsPractise\obj\Debug\IntroToCompGraphicsPractise.Form1.resources
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\IntroToCompGraphicsPractise\obj\Debug\IntroToCompGraphicsPractise.Properties.Resources.resources
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\IntroToCompGraphicsPractise\obj\Debug\IntroToCompGraphicsPractise.csproj.GenerateResource.cache
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\IntroToCompGraphicsPractise\obj\Debug\IntroToCompGraphicsPractise.csproj.CoreCompileInputs.cache
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\IntroToCompGraphicsPractise\obj\Debug\IntroToCompGraphicsPractise.exe
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\IntroToCompGraphicsPractise\obj\Debug\IntroToCompGraphicsPractise.pdb
