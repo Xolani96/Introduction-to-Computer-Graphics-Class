@@ -7,3 +7,4 @@ C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class
 C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\MouseHandling\obj\Debug\MouseHandling.csproj.CoreCompileInputs.cache
 C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\MouseHandling\obj\Debug\MouseHandling.exe
 C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\MouseHandling\obj\Debug\MouseHandling.pdb
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\MouseHandling\obj\Debug\MouseHandling.csprojAssemblyReference.cache

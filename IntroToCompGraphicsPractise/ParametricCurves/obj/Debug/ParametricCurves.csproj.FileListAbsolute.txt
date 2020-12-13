@@ -1,0 +1,10 @@
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\ParametricCurves\bin\Debug\ParametricCurves.exe.config
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\ParametricCurves\bin\Debug\ParametricCurves.exe
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\ParametricCurves\bin\Debug\ParametricCurves.pdb
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\ParametricCurves\obj\Debug\ParametricCurves.csprojAssemblyReference.cache
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\ParametricCurves\obj\Debug\ParametricCurves.Form1.resources
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\ParametricCurves\obj\Debug\ParametricCurves.Properties.Resources.resources
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\ParametricCurves\obj\Debug\ParametricCurves.csproj.GenerateResource.cache
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\ParametricCurves\obj\Debug\ParametricCurves.csproj.CoreCompileInputs.cache
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\ParametricCurves\obj\Debug\ParametricCurves.exe
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\ParametricCurves\obj\Debug\ParametricCurves.pdb

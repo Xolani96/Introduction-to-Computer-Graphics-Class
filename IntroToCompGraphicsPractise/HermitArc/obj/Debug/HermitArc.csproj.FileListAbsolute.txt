@@ -1,0 +1,10 @@
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\HermitArc\bin\Debug\HermitArc.exe.config
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\HermitArc\bin\Debug\HermitArc.exe
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\HermitArc\bin\Debug\HermitArc.pdb
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\HermitArc\obj\Debug\HermitArc.csprojAssemblyReference.cache
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\HermitArc\obj\Debug\HermitArc.Form1.resources
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\HermitArc\obj\Debug\HermitArc.Properties.Resources.resources
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\HermitArc\obj\Debug\HermitArc.csproj.GenerateResource.cache
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\HermitArc\obj\Debug\HermitArc.csproj.CoreCompileInputs.cache
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\HermitArc\obj\Debug\HermitArc.exe
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\HermitArc\obj\Debug\HermitArc.pdb

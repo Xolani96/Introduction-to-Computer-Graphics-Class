@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineAlgorithms", "LineAlgor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleAlgorithms", "CircleAlgorithms\CircleAlgorithms.csproj", "{B15D1E95-022B-484D-85C0-21D6DB532A64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParametricCircle", "ParametricCurves\ParametricCircle.csproj", "{286A4ED2-6C48-4BAA-BF62-CBC2A877E87D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HermitArc", "HermitArc\HermitArc.csproj", "{9DE0ACA7-F975-4386-80E5-0B1D7A334ED4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{B15D1E95-022B-484D-85C0-21D6DB532A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B15D1E95-022B-484D-85C0-21D6DB532A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B15D1E95-022B-484D-85C0-21D6DB532A64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{286A4ED2-6C48-4BAA-BF62-CBC2A877E87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286A4ED2-6C48-4BAA-BF62-CBC2A877E87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286A4ED2-6C48-4BAA-BF62-CBC2A877E87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286A4ED2-6C48-4BAA-BF62-CBC2A877E87D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE0ACA7-F975-4386-80E5-0B1D7A334ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE0ACA7-F975-4386-80E5-0B1D7A334ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE0ACA7-F975-4386-80E5-0B1D7A334ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE0ACA7-F975-4386-80E5-0B1D7A334ED4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

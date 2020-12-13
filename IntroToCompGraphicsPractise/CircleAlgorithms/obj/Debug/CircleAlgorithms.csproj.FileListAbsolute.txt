@@ -1,0 +1,10 @@
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\CircleAlgorithms\bin\Debug\CircleAlgorithms.exe.config
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\CircleAlgorithms\bin\Debug\CircleAlgorithms.exe
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\CircleAlgorithms\bin\Debug\CircleAlgorithms.pdb
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\CircleAlgorithms\obj\Debug\CircleAlgorithms.csprojAssemblyReference.cache
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\CircleAlgorithms\obj\Debug\CircleAlgorithms.Form1.resources
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\CircleAlgorithms\obj\Debug\CircleAlgorithms.Properties.Resources.resources
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\CircleAlgorithms\obj\Debug\CircleAlgorithms.csproj.GenerateResource.cache
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\CircleAlgorithms\obj\Debug\CircleAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\CircleAlgorithms\obj\Debug\CircleAlgorithms.exe
+C:\Users\Nhlap\OneDrive\Documents\GitHub\Introduction-to-Computer-Graphics-Class\IntroToCompGraphicsPractise\CircleAlgorithms\obj\Debug\CircleAlgorithms.pdb
