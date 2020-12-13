@@ -33,8 +33,8 @@ namespace __GraphicsBase
             float mult = 1.5f;
             for (int i = 0; i < P.Count - 3; i += 2)
                 DrawHermiteArc(new Pen(cCurve, 3f), P[i], P[i + 2],
-                    Mult(Local(P[i], P[i + 1]), mult),
-                    Mult(Local(P[i + 2], P[i + 3]), mult));
+                    Mult(Local(P[i], P[i + 1]), hScrollBar1.Value),
+                    Mult(Local(P[i + 2], P[i + 3]), hScrollBar1.Value));
 
             for (int i = 0; i < P.Count; i += 2)
                 g.FillRectangle(new SolidBrush(cControl), P[i].X - 5, P[i].Y - 5, 10, 10);
@@ -113,5 +113,10 @@ namespace __GraphicsBase
         private PointF Local(PointF a, PointF b) { return new PointF(b.X - a.X, b.Y - a.Y); }
         private PointF Add(PointF a, PointF b) { return new PointF(b.X + a.X, b.Y + a.Y); }
         private PointF Mult(PointF a, float l) { return new PointF(a.X * l, a.Y * l); }
+
+        private void hScrollBar1_Scroll(object sender, ScrollEventArgs e)
+        {
+            canvas.Refresh();
+        }
     }
 }
